@@ -1,0 +1,12 @@
+# 注释，git rm -r --cached vcs.xml 将add后的文件变成 unversion
+
+/.idea/
+
+*-dev*
+/data/
+/build/
+/packages/
+/target/
+*.iml
+
+/logs/
